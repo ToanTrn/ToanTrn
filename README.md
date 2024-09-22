@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ToanTrn
 - 👀 I’m interested in Gaming/Sports/IT
-- 🌱 I’m currently study Business Information Systems
+- 🌱 I currently study Business Information Systems
 
 <!---
 ToanTrn/ToanTrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
